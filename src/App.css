@@ -1,0 +1,47 @@
+#root {
+  max-width: 2000px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(191, 244, 244);
+}
+.container{
+  width:600px;
+  height:400px;
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 12px;
+  background-color: #13065e;
+  padding-top: 70px;
+}
+.Temperature{
+ color: white;
+ font-size: xx-large;
+}
+.weather{
+  color: white;
+  font-size: small;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.btn{
+  padding: 15px;
+  color: black;
+  margin-left: 50px;
+  background-color: rgb(9, 127, 167);
+  cursor: pointer;
+}
+.control{
+  padding: 10px;
+}
+.temp{
+  color: white;
+  font-size: x-large;
+  font-weight: 700px;
+  font-style: italic;
+}
+.location{
+  color: white;
+}
+
+                                                                                                                                          
